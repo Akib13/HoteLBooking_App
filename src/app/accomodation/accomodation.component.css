@@ -1,0 +1,12 @@
+.card-container {
+    padding: 5px;
+}
+
+.card {
+    max-width: 400px;
+}
+  
+.card-header-image {
+    background-image: url('../../assets/images/demo_ac.jpg');
+    background-size: cover;
+}

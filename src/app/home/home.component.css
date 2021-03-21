@@ -1,0 +1,34 @@
+.container {
+    height: 120vh;
+    background: url(/assets/images/home_beach.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.book-now-container {
+    padding: 35px 90px;
+}
+
+.book-now-button {
+    width: 170px;
+    color: darkmagenta;
+    border: 1px solid darkmagenta;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.header-container {
+    height: 100vh;
+}
+
+.font_style-1 {
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.font_style-2 {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    align-self: center;
+}

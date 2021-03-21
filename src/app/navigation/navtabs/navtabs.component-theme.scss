@@ -1,0 +1,13 @@
+@import '~@angular/material/theming';
+
+@mixin navtabs-component-theme ($hotelbook) {
+
+    $primary: map-get($hotelbook, primary);
+    $accent: map-get($hotelbook, accent);
+
+    //put all your theming styles here
+    .navtabs-container {
+        background-color: mat-color($hotelbook-primary, 100);
+    }
+
+}
